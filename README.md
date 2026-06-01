@@ -46,13 +46,13 @@ Supply chain performance analysis, return reason breakdown, delivery performance
 * Visualization: Power BI(interactive dashboard,dax).
 
 
-```md
+
 ## 📖 Full Analysis
 
 Read the full exploratory and explanatory analysis on Medium:
 
-[Beauty Marketplace Analytics Dashboard – Full Analysis](Your Medium Article Link)
-```
+[Beauty Marketplace Analytics – Full Analysis](https://medium.com/@26thoriq/beuty-marketplace-sales-analysis-cd63aef927f1)
+
 
 
 ## 🔗 Connect With Me
@@ -63,5 +63,5 @@ Read the full exploratory and explanatory analysis on Medium:
 
 Created by **Mohamad Thoriq Adira**
 
-```
-```
+
+
